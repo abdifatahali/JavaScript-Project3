@@ -1,13 +1,6 @@
 "use strict";
 
-/*
-   New Perspectives on HTML5 and CSS3, 7th Edition
-   Tutorial 10
-   Tutorial Case
-   
-   Filename:   lht_events.js   
-
-   The dayEvent array contains the HTML code of the LHT events in August
+/* The dayEvent array contains the HTML code of the LHT events in August
 */
 
 var dayEvent = new Array();
